@@ -1,0 +1,2 @@
+class ModelingError(Exception):
+    pass
